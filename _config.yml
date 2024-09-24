@@ -81,8 +81,8 @@ content:
           - title:  A Delicious Traveler
             icon: fab fa-github
             url: https://github.com/KJirung/A_Delicious_Traveler
-        quote: >
-          images/smart_qr.png
+        quote: images/delicious.png
+          
         description: | # this will include new lines to allow paragraphs
           This application is designed for foreign tourists. It detects food in photos taken of Korean cuisine and classifies the detected dishes to provide users with brief information about each item.
           I was responsible for data collection and generation, model training, implementing OpenMax, and integrating the model with the app.
