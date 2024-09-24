@@ -92,7 +92,7 @@ content:
           # link: https://github.com/KJirung/Smart_QR_Scanner
           # link_text: Git hub
         additional_links:
-          - title:  Jump Rope Assistance Program
+          - title:  Jump Rope Exercise Assistance Program
             icon: fab fa-github
             url: https://github.com/KJirung/JumpRope_Count_Measurement            
         description: | # this will include new lines to allow paragraphs
@@ -140,10 +140,10 @@ content:
       - layout: right
         title:
         description: | # this will include new lines to allow paragraphs
-          **Jump Rope Assistance Program** <br/>
+          **Jump Rope Exercise Assistance Program** <br/>
           Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
           *IEEE Access* , July 2024 <br/>
-          Revise
+          Resubmitted
       - layout: right
         title:
         description: | # this will include new lines to allow paragraphs
