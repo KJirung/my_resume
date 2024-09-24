@@ -100,66 +100,62 @@ content:
           Based on this data, we measure the number of jump rope repetitions and conduct odds ratio analysis, SHAP analysis, and correlation analysis on the joint coordinates involved in the jump rope movement to derive insights.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak  # Value of `weak` will display a weak border below this item.
         title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
         additional_links:
-          - title:  A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
+          - title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
             icon: fab fa-github
             url: https://github.com/KJirung/Public_library_data_analysis          
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           This project uses the public library statistical data provided by the Korean Library Statistics System to predict the material acquisition costs for the following year. 
           It also conducts SHAP analysis, Canonical Correlation Analysis, and correlation analysis on public library usage factors to analyze the relationship with next year's material acquisition costs and derive new insights.
-  
+      
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
-           
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Medical data is highly sensitive, and therefore, hospitals and medical institutions face legal constraints, such as data privacy regulations, when transmitting data to external servers. 
           Federated learning addresses these issues while maintaining the performance of model training. 
           This project aims to develop a federated learning technique that outperforms existing methods such as FedAvg, MA, and IPA. 
           Currently, we are conducting experiments to effectively process the weights transmitted from local servers on a central server while preserving the model's performance.
-          
+      
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                        # other value (or no value) means no border will be displayed
+        border: weak
         title: Braille-Block Damage Ratio Calculation Solution
-             
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           This project involves developing a solution that calculates the damage ratio of Braille-Block using deep learning object detection models and provides workers with information on which Braille-Block requires repair. 
           Currently, experiments are being conducted using the Yolov5 and Yolov8 models, and additional object detection models will be included in future experiments.
-
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Hansung University Deep Learning and Machine Learning Lab (Prof. Seungho Choi)
-        sub_title: Undergraduate Researcher
-        caption: January 2024 - present
-        link: https://sites.google.com/view/dlchoi
-        description: | # this will include new lines to allow paragraphs
-          I am participating in various research projects as an undergraduate researcher in this laboratory. 
-          Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
-          Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
-  - title: Publication
-    layout: list
-    content:
-      - layout: right
-        title:
-        description: | # this will include new lines to allow paragraphs
-          **Jump Rope Exercise Assistance Program** <br/>
-          Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
-          *IEEE Access* , July 2024 <br/>
-          Resubmitted
-      - layout: right
-        title:
-        description: | # this will include new lines to allow paragraphs
-          **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost** <br/>
-          Jinwoong Kim, Seoungho Choi <br/>
-          *Scientific Reports* , September 2024 <br/>
-          Submitted
+      
+      - title: Experience
+        layout: list
+        content:
+          - layout: right
+            title: Hansung University Deep Learning and Machine Learning Lab (Prof. Seungho Choi)
+            sub_title: Undergraduate Researcher
+            caption: January 2024 - present
+            link: https://sites.google.com/view/dlchoi
+            description: | 
+              I am participating in various research projects as an undergraduate researcher in this laboratory. 
+              Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
+              Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
+      
+      - title: Publication
+        layout: list
+        content:
+          - layout: right
+            title: 
+            description: | 
+              **Jump Rope Exercise Assistance Program** <br/>
+              Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
+              *IEEE Access*, July 2024 <br/>
+              Resubmitted
+          - layout: right
+            title: 
+            description: | 
+              **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost** <br/>
+              Jinwoong Kim, Seoungho Choi <br/>
+              *Scientific Reports*, September 2024 <br/>
+              Submitted
 
 # Footer
 footer_show_references: true
