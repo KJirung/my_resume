@@ -65,8 +65,7 @@ content:
           - title:  Smart QR code Scanner
             icon: fab fa-github
             url: https://github.com/KJirung/Smart_QR_Scanner
-        quote: >
-          images/smart_qr.png
+        quote: images/smart_qr.png  
         description: | # this will include new lines to allow paragraphs
           This application aims to prevent QR code phishing by embedding malicious URLs, redirecting users to harmful sites when they scan the QR code.
           I was responsible for collecting URL data, feature investigation, data preprocessing, model training, data analysis, and app integration.
