@@ -68,7 +68,9 @@ content:
         quote: >
           images/smart_qr.png
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This application aims to prevent QR code phishing by embedding malicious URLs, redirecting users to harmful sites when they scan the QR code.
+          I was responsible for collecting URL data, feature investigation, data preprocessing, model training, data analysis, and app integration.
+          Using a simple DNN model, I performed classification, achieving an F1 score of 0.9 for model performance.
   - title: Experience
     layout: list
     content:
