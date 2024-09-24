@@ -88,55 +88,55 @@ content:
           I was responsible for data collection and generation, model training, implementing OpenMax, and integrating the model with the app.
           The food detection model achieved a mean Average Precision (mAP) of 0.97 at IoU 50, while the food classification model achieved an accuracy of 0.9.
 
-     - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Jump Rope Assistance Program
-        # link: https://github.com/KJirung/Smart_QR_Scanner
-        # link_text: Git hub
-        additional_links:
-          - title:  Jump Rope Assistance Program
-            icon: fab fa-github
-            url: https://github.com/KJirung/JumpRope_Count_Measurement
-        quote: images/jump.jpg
-          
-        description: | # this will include new lines to allow paragraphs
-          This project utilizes the OpenPose model to extract joint coordinates from video frames of jump rope exercises. 
-          Based on this data, we measure the number of jump rope repetitions and conduct odds ratio analysis, SHAP analysis, and correlation analysis on the joint coordinates involved in the jump rope movement to derive insights.
+      - layout: left
+          border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                        # other value (or no value) means no border will be displayed
+          title: Jump Rope Assistance Program
+          # link: https://github.com/KJirung/Smart_QR_Scanner
+          # link_text: Git hub
+          additional_links:
+            - title:  Jump Rope Assistance Program
+              icon: fab fa-github
+              url: https://github.com/KJirung/JumpRope_Count_Measurement
+          quote: images/jump.jpg
+            
+          description: | # this will include new lines to allow paragraphs
+            This project utilizes the OpenPose model to extract joint coordinates from video frames of jump rope exercises. 
+            Based on this data, we measure the number of jump rope repetitions and conduct odds ratio analysis, SHAP analysis, and correlation analysis on the joint coordinates involved in the jump rope movement to derive insights.
 
-    - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
-        # link: https://github.com/KJirung/Smart_QR_Scanner
-        # link_text: Git hub
-        additional_links:
-          - title:  A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
-            icon: fab fa-github
-            url: https://github.com/KJirung/Public_library_data_analysis
-        quote: images/jump.jpg
-          
-        description: | # this will include new lines to allow paragraphs
-          This project uses the public library statistical data provided by the Korean Library Statistics System to predict the material acquisition costs for the following year. 
-          It also conducts SHAP analysis, Canonical Correlation Analysis, and correlation analysis on public library usage factors to analyze the relationship with next year's material acquisition costs and derive new insights.
-
-    - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
-        # link: https://github.com/KJirung/Smart_QR_Scanner
-        # link_text: Git hub
-        # additional_links:
-        #   - title:  Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
-        #     icon: fab fa-github
-        #     url: https://github.com/KJirung/Public_library_data_analysis
-        quote: images/jump.jpg
-          
-        description: | # this will include new lines to allow paragraphs
-          Medical data is highly sensitive, and therefore, hospitals and medical institutions face legal constraints, such as data privacy regulations, when transmitting data to external servers. 
-          Federated learning addresses these issues while maintaining the performance of model training. 
-          This project aims to develop a federated learning technique that outperforms existing methods such as FedAvg, MA, and IPA. 
-          Currently, we are conducting experiments to effectively process the weights transmitted from local servers on a central server while preserving the model's performance.
+      - layout: left
+          border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                        # other value (or no value) means no border will be displayed
+          title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
+          # link: https://github.com/KJirung/Smart_QR_Scanner
+          # link_text: Git hub
+          additional_links:
+            - title:  A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
+              icon: fab fa-github
+              url: https://github.com/KJirung/Public_library_data_analysis
+          quote: images/jump.jpg
+            
+          description: | # this will include new lines to allow paragraphs
+            This project uses the public library statistical data provided by the Korean Library Statistics System to predict the material acquisition costs for the following year. 
+            It also conducts SHAP analysis, Canonical Correlation Analysis, and correlation analysis on public library usage factors to analyze the relationship with next year's material acquisition costs and derive new insights.
+  
+      - layout: left
+          border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                        # other value (or no value) means no border will be displayed
+          title: Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
+          # link: https://github.com/KJirung/Smart_QR_Scanner
+          # link_text: Git hub
+          # additional_links:
+          #   - title:  Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
+          #     icon: fab fa-github
+          #     url: https://github.com/KJirung/Public_library_data_analysis
+          quote: images/jump.jpg
+            
+          description: | # this will include new lines to allow paragraphs
+            Medical data is highly sensitive, and therefore, hospitals and medical institutions face legal constraints, such as data privacy regulations, when transmitting data to external servers. 
+            Federated learning addresses these issues while maintaining the performance of model training. 
+            This project aims to develop a federated learning technique that outperforms existing methods such as FedAvg, MA, and IPA. 
+            Currently, we are conducting experiments to effectively process the weights transmitted from local servers on a central server while preserving the model's performance.
 
   - title: Experience
     layout: list
