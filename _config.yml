@@ -134,18 +134,15 @@ content:
           I am participating in various research projects as an undergraduate researcher in this laboratory. 
           Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
           Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
-  - title: Publications
+  - title: Publication
     layout: list
     content:
-      - layout: left
-        Jump Rope Assistance Program  
-        Authors: Your Name, Co-authors  
-        Conference: Conference Name, Year
-
-      - layout: left
-        A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost  
-        Authors: Your Name, Co-authors  
-        Conference: Conference Name, Year
+      - layout: right
+        title:
+        description: | # this will include new lines to allow paragraphs
+          I am participating in various research projects as an undergraduate researcher in this laboratory. 
+          Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
+          Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
 
 # Footer
 footer_show_references: true
