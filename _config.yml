@@ -145,12 +145,12 @@ content:
           *IEEE Access* , July 2024
           Revise
       - layout: right
-          title:
-          description: | # this will include new lines to allow paragraphs
-            **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost**
-            Jinwoong Kim, Seoungho Choi
-            *Scientific Reports* , September 2024
-            Submitted
+        title:
+        description: | # this will include new lines to allow paragraphs
+          **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost**
+          Jinwoong Kim, Seoungho Choi
+          *Scientific Reports* , September 2024
+          Submitted
 
 # Footer
 footer_show_references: true
