@@ -88,7 +88,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                         # other value (or no value) means no border will be displayed
-        title: Jump Rope Assistance Program
+        title: Jump Rope Exercise Assistance Program
           # link: https://github.com/KJirung/Smart_QR_Scanner
           # link_text: Git hub
         additional_links:
