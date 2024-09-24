@@ -138,15 +138,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: Jump Rope Assistance Program
+        # title: Jump Rope Assistance Program
         description: | # this will include new lines to allow paragraphs
           Brief description of your paper, its significance, and findings.
   
       # Add more publications as needed
       - layout: left
-        title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
+        # title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
         description: | # this will include new lines to allow paragraphs
-          Brief description of this paper.
+          A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
 
 # Footer
 footer_show_references: true
