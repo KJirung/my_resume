@@ -140,9 +140,7 @@ content:
       - layout: right
         title:
         description: | # this will include new lines to allow paragraphs
-          I am participating in various research projects as an undergraduate researcher in this laboratory. 
-          Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
-          Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
+          **Jump Rope Assistance Program**
 
 # Footer
 footer_show_references: true
