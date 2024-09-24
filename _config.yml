@@ -137,11 +137,13 @@ content:
   - title: Publications
     layout: list
     content:
-      - Jump Rope Assistance Program  
+      - layout: left
+        Jump Rope Assistance Program  
         Authors: Your Name, Co-authors  
         Conference: Conference Name, Year
-  
-      - A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost  
+
+      - layout: left
+        A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost  
         Authors: Your Name, Co-authors  
         Conference: Conference Name, Year
 
