@@ -121,6 +121,7 @@ content:
           Federated learning addresses these issues while maintaining the performance of model training. 
           This project aims to develop a federated learning technique that outperforms existing methods such as FedAvg, MA, and IPA. 
           Currently, we are conducting experiments to effectively process the weights transmitted from local servers on a central server while preserving the model's performance.
+          
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                         # other value (or no value) means no border will be displayed
