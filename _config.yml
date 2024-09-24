@@ -59,15 +59,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Smart QR code Scanner
-        link: https://github.com/KJirung/Smart_QR_Scanner
-        link_text: Git hub
+        # link: https://github.com/KJirung/Smart_QR_Scanner
+        # link_text: Git hub
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Smart QR code Scanner
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/KJirung/Smart_QR_Scanner
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
