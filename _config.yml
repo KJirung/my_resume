@@ -135,24 +135,22 @@ content:
     content:
       - layout: right
         title: Hansung University Deep Learning and Machine Learning Lab (Prof. Seungho Choi)
-        sub_title: Job title
+        sub_title: Undergraduate Researcher
         caption: January 2024 - present
         link: https://sites.google.com/view/dlchoi
-        quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I am participating in various research projects as an undergraduate researcher in this laboratory. 
+          Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
+          Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Hansung University, Seoul, Republic of Korea
+        sub_title: Bachelor of Engineering in Convergence IT Engineering (expected graduation: February 2025)
+        caption: 2019 - 2025 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          I am majoring in Artificial Intelligence and Cybersecurity at the Department of IT Convergence Engineering at Hansung University.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
