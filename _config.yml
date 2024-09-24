@@ -140,16 +140,16 @@ content:
       - layout: right
         title:
         description: | # this will include new lines to allow paragraphs
-          **Jump Rope Assistance Program**
-          Jinwoong Kim, Jaewoo Shin, Seoungho Choi
-          *IEEE Access* , July 2024
+          **Jump Rope Assistance Program** <br/>
+          Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
+          *IEEE Access* , July 2024 <br/>
           Revise
       - layout: right
         title:
         description: | # this will include new lines to allow paragraphs
-          **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost**
-          Jinwoong Kim, Seoungho Choi
-          *Scientific Reports* , September 2024
+          **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost** <br/>
+          Jinwoong Kim, Seoungho Choi <br/>
+          *Scientific Reports* , September 2024 <br/>
           Submitted
 
 # Footer
