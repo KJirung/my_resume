@@ -56,51 +56,42 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak  # Value of `weak` will display a weak border below this item.
         title: Smart QR code Scanner
-        # link: https://github.com/KJirung/Smart_QR_Scanner
-        # link_text: Git hub
         additional_links:
-          - title:  Smart QR code Scanner
+          - title: Smart QR code Scanner
             icon: fab fa-github
             url: https://github.com/KJirung/Smart_QR_Scanner 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           This application aims to prevent QR code phishing by embedding malicious URLs, redirecting users to harmful sites when they scan the QR code.
           I was responsible for collecting URL data, feature investigation, data preprocessing, model training, data analysis, and app integration.
           Using a simple DNN model, I performed classification, achieving an F1 score of 0.9 for model performance.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: A Delicious Traveler
-        # link: https://github.com/KJirung/Smart_QR_Scanner
-        # link_text: Git hub
         additional_links:
-          - title:  A Delicious Traveler
+          - title: A Delicious Traveler
             icon: fab fa-github
             url: https://github.com/KJirung/A_Delicious_Traveler          
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           This application is designed for foreign tourists. It detects food in photos taken of Korean cuisine and classifies the detected dishes to provide users with brief information about each item.
           I was responsible for data collection and generation, model training, implementing OpenMax, and integrating the model with the app.
           The food detection model achieved a mean Average Precision (mAP) of 0.97 at IoU 50, while the food classification model achieved an accuracy of 0.9.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                        # other value (or no value) means no border will be displayed
+        border: weak
         title: Jump Rope Exercise Assistance Program
-          # link: https://github.com/KJirung/Smart_QR_Scanner
-          # link_text: Git hub
         additional_links:
-          - title:  Jump Rope Exercise Assistance Program
+          - title: Jump Rope Exercise Assistance Program
             icon: fab fa-github
             url: https://github.com/KJirung/JumpRope_Count_Measurement            
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           This project utilizes the OpenPose model to extract joint coordinates from video frames of jump rope exercises. 
           Based on this data, we measure the number of jump rope repetitions and conduct odds ratio analysis, SHAP analysis, and correlation analysis on the joint coordinates involved in the jump rope movement to derive insights.
 
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item.
+        border: weak
         title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
         additional_links:
           - title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
@@ -109,7 +100,7 @@ content:
         description: | 
           This project uses the public library statistical data provided by the Korean Library Statistics System to predict the material acquisition costs for the following year. 
           It also conducts SHAP analysis, Canonical Correlation Analysis, and correlation analysis on public library usage factors to analyze the relationship with next year's material acquisition costs and derive new insights.
-      
+
       - layout: left
         border: weak
         title: Development of a Novel Federated Learning Methodology for Endoscopic Image Segmentation
@@ -118,44 +109,45 @@ content:
           Federated learning addresses these issues while maintaining the performance of model training. 
           This project aims to develop a federated learning technique that outperforms existing methods such as FedAvg, MA, and IPA. 
           Currently, we are conducting experiments to effectively process the weights transmitted from local servers on a central server while preserving the model's performance.
-      
+
       - layout: left
         border: weak
         title: Braille-Block Damage Ratio Calculation Solution
         description: | 
           This project involves developing a solution that calculates the damage ratio of Braille-Block using deep learning object detection models and provides workers with information on which Braille-Block requires repair. 
           Currently, experiments are being conducted using the Yolov5 and Yolov8 models, and additional object detection models will be included in future experiments.
-      
-      - title: Experience
-        layout: list
-        content:
-          - layout: right
-            title: Hansung University Deep Learning and Machine Learning Lab (Prof. Seungho Choi)
-            sub_title: Undergraduate Researcher
-            caption: January 2024 - present
-            link: https://sites.google.com/view/dlchoi
-            description: | 
-              I am participating in various research projects as an undergraduate researcher in this laboratory. 
-              Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
-              Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
-      
-      - title: Publication
-        layout: list
-        content:
-          - layout: right
-            title: 
-            description: | 
-              **Jump Rope Exercise Assistance Program** <br/>
-              Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
-              *IEEE Access*, July 2024 <br/>
-              Resubmitted
-          - layout: right
-            title: 
-            description: | 
-              **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost** <br/>
-              Jinwoong Kim, Seoungho Choi <br/>
-              *Scientific Reports*, September 2024 <br/>
-              Submitted
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Hansung University Deep Learning and Machine Learning Lab (Prof. Seungho Choi)
+        sub_title: Undergraduate Researcher
+        caption: January 2024 - present
+        link: https://sites.google.com/view/dlchoi
+        description: | 
+          I am participating in various research projects as an undergraduate researcher in this laboratory. 
+          Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
+          Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
+
+  - title: Publication
+    layout: list
+    content:
+      - layout: right
+        title: 
+        description: | 
+          **Jump Rope Exercise Assistance Program** <br/>
+          Jinwoong Kim, Jaewoo Shin, Seoungho Choi <br/>
+          *IEEE Access*, July 2024 <br/>
+          Resubmitted
+      - layout: right
+        title: 
+        description: | 
+          **A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost** <br/>
+          Jinwoong Kim, Seoungho Choi <br/>
+          *Scientific Reports*, September 2024 <br/>
+          Submitted
+
 
 # Footer
 footer_show_references: true
