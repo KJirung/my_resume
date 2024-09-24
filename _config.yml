@@ -88,6 +88,22 @@ content:
           I was responsible for data collection and generation, model training, implementing OpenMax, and integrating the model with the app.
           The food detection model achieved a mean Average Precision (mAP) of 0.97 at IoU 50, while the food classification model achieved an accuracy of 0.9.
 
+     - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Jump Rope Assistance Program
+        # link: https://github.com/KJirung/Smart_QR_Scanner
+        # link_text: Git hub
+        additional_links:
+          - title:  Jump Rope Assistance Program
+            icon: fab fa-github
+            url: https://github.com/KJirung/JumpRope_Count_Measurement
+        quote: images/jump.jpg
+          
+        description: | # this will include new lines to allow paragraphs
+          This project utilizes the OpenPose model to extract joint coordinates from video frames of jump rope exercises. 
+          Based on this data, we measure the number of jump rope repetitions and conduct odds ratio analysis, SHAP analysis, and correlation analysis on the joint coordinates involved in the jump rope movement to derive insights.
+
   - title: Experience
     layout: list
     content:
