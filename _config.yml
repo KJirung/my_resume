@@ -134,21 +134,19 @@ content:
           I am participating in various research projects as an undergraduate researcher in this laboratory. 
           Currently, I am applying various analytical techniques, such as SHAP analysis, odds ratio analysis, correlation analysis, and canonical correlation analysis, to the data to derive insights. 
           Additionally, I am conducting research on applying a novel federated learning method to medical image segmentation models.
-  - title: Education
+  - title: Publications
     layout: list
     content:
-      - layout: top-right
-        title: Hansung University, Seoul, Republic of Korea
-        sub_title: Bachelor of Engineering in Convergence IT Engineering (expected graduation: February 2025)
-        caption: 2019 - 2025 
+      - layout: left
+        title: Jump Rope Assistance Program
         description: | # this will include new lines to allow paragraphs
-          I am majoring in Artificial Intelligence and Cybersecurity at the Department of IT Convergence Engineering at Hansung University.
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          Brief description of your paper, its significance, and findings.
+  
+      # Add more publications as needed
+      - layout: left
+        title: A Novel Machine Learning Program for Prediction and Analysis of Public Library Material Purchase Cost
+        description: | # this will include new lines to allow paragraphs
+          Brief description of this paper.
 
 # Footer
 footer_show_references: true
