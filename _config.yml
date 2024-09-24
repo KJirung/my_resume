@@ -48,6 +48,8 @@ instagram_username: k_ji_noong
 about_profile_image: images/my_face.jpg
 about_content: | # this will include new lines to allow paragraphs
   Undergraduate Student | Department of Convergence IT Engineering, Hansung University, Seoul, Korea
+  <br/>
+  Hello, my name is JinWoong Kim. Currently enrolled at Hansung University, majoring in the department of Convergence IT Engineering. My areas of interest include healthcare big data analysis and image-based deep learning diagnostic models.
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
